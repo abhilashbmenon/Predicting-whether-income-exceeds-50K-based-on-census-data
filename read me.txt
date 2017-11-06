@@ -1,0 +1,10 @@
+* You will need to have java installed and also have the class path set to
+weka.jar in order to execute these files. 
+
+* The weka.jar file can be found in the same directory as this "read me" file.
+
+* I have checked the execution of this code multiple times and hence I am also providing 
+the class files for my java code along with this project.
+
+
+
